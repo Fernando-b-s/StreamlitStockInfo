@@ -1,9 +1,8 @@
-streamlit
-yfinance
-deep-translator
-plotly
-streamlit-extras
-TA-Lib
-pandas
-numpy
-datetime
+streamlit==1.31.1
+yfinance==0.2.36
+deep_translator==1.11.4
+plotly==5.18.0
+streamlit-extras==0.3.3
+ta-lib==0.4.0
+pandas==2.1.4
+numpy==1.26.3
